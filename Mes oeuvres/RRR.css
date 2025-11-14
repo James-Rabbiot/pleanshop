@@ -1,0 +1,47 @@
+.boto{
+    background-color: white;
+    display: grid;
+grid-template-columns: repeat(3,80px);
+ grid-gap: 10px;
+ justify-content: center;
+ padding:30px;
+}
+.boto button{
+    background-color: white;
+    border:solid;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px black;
+    cursor: pointer;
+    border: none;
+    padding: 4px;
+}
+.boto button small{
+  font-family: arial;
+  display: block;
+  color: black;
+}
+p{
+    font-family: arial;
+    font-size: 18px;
+}
+input{
+  padding: 15px;
+  border-radius: 25px;
+  font-size: 16px;
+ 
+
+}
+.btn{
+    padding: 12px;
+    font-family: 20px;
+    border-radius: 50px;
+    background-color: blue;
+    width: 200px;
+
+}
+h2{
+    text-align: center;
+}
+#fisrt{
+width: 80%;
+}
